@@ -1,4 +1,4 @@
 # Java-Assignment (Software Engineering)
-# Forked (Changed) By-CodeWith-Abdulrehman and Aftab.
+# Forked (Changed) By Abdulrehman and Aftab.
 
 Another Chhange
